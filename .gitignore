@@ -62,4 +62,4 @@ vendored/
 *.swp
 
 # build artifacts
-opsworks_instance.zip
+*.zip
